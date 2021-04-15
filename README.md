@@ -17,4 +17,4 @@ https://editor.p5js.org/chrismdv00/sketches/WYFyGV4tx
 A few advanced things that were added:
 - Robot
 - Perlin noise to player movement
-- Avoiding vegetation
+- Squirrels avoiding vegetation
