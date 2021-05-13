@@ -20,7 +20,7 @@ A few advanced things that were added:
 - Squirrels avoiding vegetation
 
 
-# 5/10/21
+# 5/10/21 - Final Project
 
 https://editor.p5js.org/HaxxALot/sketches/v4LpAiI91
 
