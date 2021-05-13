@@ -18,3 +18,17 @@ A few advanced things that were added:
 - Robot
 - Perlin noise to player movement
 - Squirrels avoiding vegetation
+
+
+# 5/10/21
+
+https://editor.p5js.org/HaxxALot/sketches/v4LpAiI91
+
+My project embodies the represents the general course of action of having a bad day. They start out good but get worse through out, and I decided to use phrases inspired my movies, general thoughts, and fake deep takes. Each run of the code will randomize these phrases as the backgroud gradually fades from white, to a bright color, than dark, then black to metaphorically align with the text.
+Some challenges I had with this project were how to randomize the background color, how to control the color fading, and reseting the page. For each respective challenge, I made a variable for each RGB value and subtracted each one at random values, used the keyPressed function to subtract and add (go from light to dark; vise versa) to the color scale, and I used keyTyped to reset each changing value to its original value.
+At first, I was going to do a sprite sheet of a person walking from middle screen left to screen right, while having the background change colors of the whole rainbow (each color filled the screen), and each color would represent an emotion they would react to.
+![48A0322F-C0D3-4E0B-909B-AF3A4AC28543.jpeg]({{site.baseurl}}/48A0322F-C0D3-4E0B-909B-AF3A4AC28543.jpeg)
+
+![B5121C21-0CB9-48C5-AC72-3B7C563FDE9E.jpeg]({{site.baseurl}}/B5121C21-0CB9-48C5-AC72-3B7C563FDE9E.jpeg)
+
+![3234A85B-1EB3-41A9-8AD9-50141392B215.jpeg]({{site.baseurl}}/3234A85B-1EB3-41A9-8AD9-50141392B215.jpeg)
