@@ -11,6 +11,15 @@ For NoPaint, I would consider it half of my artwork since I am partially control
 
 
 
+## 3/10/21
+
+https://editor.p5js.org/HaxxALot/sketches/IHzJQKcA5
+
+For this Create-A-Life assignment, I 
+![ECEFA323-23D3-4D9E-B2F0-2F0A88BFD58C.png]({{site.baseurl}}/ECEFA323-23D3-4D9E-B2F0-2F0A88BFD58C.png)
+
+
+
 # 4/15/21
 
 https://editor.p5js.org/chrismdv00/sketches/WYFyGV4tx
