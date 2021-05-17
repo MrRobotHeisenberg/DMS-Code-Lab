@@ -15,7 +15,7 @@ For NoPaint, I would consider it half of my artwork since I am partially control
 
 https://editor.p5js.org/HaxxALot/sketches/IHzJQKcA5
 
-For this Create-A-Life assignment, I 
+For this Create-A-Life assignment, I decided to make an array off ellipses with eyes. I made the loop run a total of ten times to make ten objects. I also made a function to make them bounce off the walls.
 ![ECEFA323-23D3-4D9E-B2F0-2F0A88BFD58C.png]({{site.baseurl}}/ECEFA323-23D3-4D9E-B2F0-2F0A88BFD58C.png)
 
 
