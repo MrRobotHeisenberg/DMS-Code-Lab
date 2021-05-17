@@ -10,14 +10,21 @@ My theoretical tool would be the ideal template generator. It would cater to aid
 For NoPaint, I would consider it half of my artwork since I am partially controlling what happens in a sequential process. Unlike ARRON, this for of art reqiures you to continuosly get involved in the process. Therefore, I would consider myself a collaborator. Randomness plays a big role. You can't really tell what is the next thing to pop up on the screen, from a bug moving to the rezise of the screen. In my life, I like to think there are a lot of random things that happen around me because I feel like that's the energy I attract. It intrigues me because I am a random person my self since I spead myself thin across many forms of media and interests.
 
 
+
 # 4/15/21
 
 https://editor.p5js.org/chrismdv00/sketches/WYFyGV4tx
+
+In this code, I was in charge of coding the player's movement. When I made that, one of my partners remade the code to fit it for the player class. I contributed to other ideas on how we would impliment the other requirments like how to make the grass and increasing player squirrel size.
 
 A few advanced things that were added:
 - Robot
 - Perlin noise to player movement
 - Squirrels avoiding vegetation
+![C93A1369-D74D-4978-B747-A30DA76EA250.png]({{site.baseurl}}/C93A1369-D74D-4978-B747-A30DA76EA250.png)
+
+![0F990F65-44FA-4E99-9C4F-DEDC897894F6.png]({{site.baseurl}}/0F990F65-44FA-4E99-9C4F-DEDC897894F6.png)
+
 
 
 # 5/10/21 - Final Project
