@@ -15,12 +15,13 @@ For NoPaint, I would consider it half of my artwork since I am partially control
 
 https://editor.p5js.org/chrismdv00/sketches/WYFyGV4tx
 
-In this code, I was in charge of coding the player's movement. When I made that, one of my partners remade the code to fit it for the player class. I contributed to other ideas on how we would impliment the other requirments like how to make the grass and increasing player squirrel size.
+In this code, I was in charge of coding the player's movement. When I made that, one of my partners remade the code to fit it for the player class. I contributed to other ideas on how we would impliment the other requirments like how to make the grass and increasing player squirrel size. One difficulty we had was trying to stop the player size from continuously growing past the screen. We changed that buy slowing the growth rate of the player squirrel. Our version of Squirrel Eat Squirrel seems to stick close to the parameters of the requirements and plays well to conveniency.
 
 A few advanced things that were added:
 - Robot
 - Perlin noise to player movement
 - Squirrels avoiding vegetation
+- Sprint (group made)
 ![C93A1369-D74D-4978-B747-A30DA76EA250.png]({{site.baseurl}}/C93A1369-D74D-4978-B747-A30DA76EA250.png)
 
 ![0F990F65-44FA-4E99-9C4F-DEDC897894F6.png]({{site.baseurl}}/0F990F65-44FA-4E99-9C4F-DEDC897894F6.png)
